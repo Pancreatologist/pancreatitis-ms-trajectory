@@ -1,0 +1,33 @@
+# R data files
+*.RData
+*.rds
+*.rda
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.txt
+*.tsv
+
+# R project files
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+.Rapp.history
+.Ruserdata
+
+# Output figures (sample only; regenerate from code)
+# Uncomment below if you do NOT want to track generated figures
+# figures/
+# tables/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
